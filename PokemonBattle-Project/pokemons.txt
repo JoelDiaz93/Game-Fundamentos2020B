@@ -1,0 +1,16 @@
+Charizard;Fire
+Typhlosion;Fire
+Monferno;Fire
+Combusken;Fire
+Pidgeot;Air
+Hoothoot;Air
+Lugia;Air
+Staravia;Air
+Onyx;Ground
+Marowak;Ground
+Graveler;Ground
+Donphan;Ground
+Gyarados;Water
+Feraligatr;Water
+Piplup;Water
+Blastoise;Water
