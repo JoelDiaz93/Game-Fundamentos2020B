@@ -1,7 +1,6 @@
 package sample.pokemon;
 
 public class Pokemon {
-    private String testGit;
     private String namePokemon;
     private String typePokemon;
 
